@@ -1,0 +1,16 @@
+.title{
+text-align: center;
+font-size: 50px;
+font-family: 'Courier New', Courier, monospace;
+color: blue;
+letter-spacing: 3px;
+text-decoration: underline solid #e0dcde;
+}
+.red{
+background-color: #e4087e;
+size: 40px;
+}
+.img{
+    display: flex;
+    justify-content: space-around;
+}
